@@ -1,7 +1,7 @@
-- 👋 Holi, soy @Sentaku
-- Me interesaria aprender todo lo posible de algunos lenguajes 
-- 🌱 Estoy estudiando actualmente
-- 📫 Memes
+- 👋 Hi, mi nickname is @Sentaku
+- beninger dev
+- 🌱 studing rn 
+- 📫 ESP/EN
 
 <!---
 SentakuVT/SentakuVT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
